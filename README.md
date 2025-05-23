@@ -158,9 +158,9 @@ Debugging:
 Performance Optimization:
 -	Measure First (Profiling): Don't guess! Use profiling tools (e.g., perf, cProfile, browser performance tabs, Xcode Instruments) to identify actual bottlenecks (CPU, memory, I/O).
 -	Do Less Work:
--	 Better Algorithms/Data Structures: Choose more efficient ones for your problem (e.g., a hash map vs. linear scan for lookups).
--	 Avoid Redundant Work: Cache results, move computations outside loops, use lazy evaluation.
--	 Optimize Data Access: Reduce network requests, optimize database queries, minimize DOM manipulations.
+    -	 Better Algorithms/Data Structures: Choose more efficient ones for your problem (e.g., a hash map vs. linear scan for lookups).
+    -	 Avoid Redundant Work: Cache results, move computations outside loops, use lazy evaluation.
+    -	 Optimize Data Access: Reduce network requests, optimize database queries, minimize DOM manipulations.
 -	Understand System Characteristics: Is your app CPU-bound, memory-bound, or I/O-bound? Optimize the right bottleneck.
 -	Asynchronous Operations/Parallelism: For long-running tasks, use asynchronous code or multithreading/multiprocessing (if applicable to your language/platform) to avoid blocking the main thread.
 -	Memory Management: Address memory leaks and optimize memory usage (e.g., reduce object creation).
