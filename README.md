@@ -18,9 +18,9 @@ Many companies initiate the recruitment process with a brief 15- to 30-minute in
   *Salary vs. Money:* Contract, perks, equity, bonus, taxes…
   *Highest Salary vs. Best Job:* Remember, you have a career strategy, don’t you? ;)
 
-  ### Technical Interview
+### Technical Interview
   
-  Show time!
+Show time!
 
 ***Engineering over syntax:*** If feasible, consider writing your code in a language different from the company's primary one. This encourages interviewers to focus on your implementation and problem-solving skills, rather than specific language 'tricks' or syntax nuances.
 
