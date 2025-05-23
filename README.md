@@ -222,7 +222,7 @@ Which soft-skills? The specific soft skills assessed depend directly on whether 
 Regardless of the role's seniority, effective communication skills are paramount—without them, other competencies lose their impact. This stage often emphasizes your ability to communicate clearly, your resilience in difficult or frustrating situations (under pressure), and your openness to feedback.
 
 2.	‘Cultural fit’
-3.	
+
 The concept of 'cultural fit' is frequently misunderstood by both companies and candidates. It should fundamentally mean bringing together diverse individuals who align with the organization's core principles and values. Therefore, ensure you are familiar with the company's stated values—these are typically published on their website—to assess your alignment.
 
 __Which type of questions to expect?__
