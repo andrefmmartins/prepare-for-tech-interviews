@@ -76,15 +76,15 @@ _Please be aware that the questions listed below serve as illustrative examples 
 
 In short, technical problem-solving interview questions try to understand:
 
-### 1. Algorithm and data structure knowledge (DSA): Evaluate candidate’s understanding of fundamental algorithms and data structures, and their ability to apply them to solve problems.
+### 1. ***Algorithm and data structure knowledge (DSA):*** Evaluate candidate’s understanding of fundamental algorithms and data structures, and their ability to apply them to solve problems.
 
-    - ***Practice on LeetCode and HackerRank:*** Focusing on data structures like arrays, linked lists, stacks, queues, trees, and graphs, as well as common algorithms such as sorting and searching, will lay a solid foundation for tackling more complex problems. You have other platforms such as GeeksforGeeks, CodeChef, HackerEarth at AtCoder.
+   - ***Practice on LeetCode and HackerRank:*** Focusing on data structures like arrays, linked lists, stacks, queues, trees, and graphs, as well as common algorithms such as sorting and searching, will lay a solid foundation for tackling more complex problems. You have other platforms such as GeeksforGeeks, CodeChef, HackerEarth at AtCoder.
 
-    - ***Understand time and space complexity:*** Learn to analyze the efficiency of your code by understanding time and space complexity, which is crucial for optimizing your solutions and making informed decisions during interviews.
-
-    - ***Develop problem-solving skills:*** Regularly solving coding problems helps develop analytical and logical thinking skills, which are essential for navigating the challenges of technical interviews.
-
-    - ***Review and refactor:*** After solving a problem, review your code for potential improvements. Refactoring can lead to more elegant and efficient solutions, showcasing your ability to improve upon your work.
+   - ***Understand time and space complexity:*** Learn to analyze the efficiency of your code by understanding time and space complexity, which is crucial for optimizing your solutions and making informed decisions during interviews.
+   
+   - ***Develop problem-solving skills:*** Regularly solving coding problems helps develop analytical and logical thinking skills, which are essential for navigating the challenges of technical interviews.
+   
+   - ***Review and refactor:*** After solving a problem, review your code for potential improvements. Refactoring can lead to more elegant and efficient solutions, showcasing your ability to improve upon your work.
 
 Looking to delve deeper?
 
@@ -117,7 +117,7 @@ Books:
 -	**Analyze Time and Space Complexity (Big O Notation):** This is crucial for evaluating the efficiency of your solutions.
 -	**Review and Iterate:** Don't be afraid to revisit concepts and problems you found challenging.
 
-### 2. System design: Assess candidates’ ability to design scalable and efficient systems based on given requirements.
+### 2. ***System design:*** Assess candidates’ ability to design scalable and efficient systems based on given requirements.
 
 Looking to delve deeper?
 
@@ -145,7 +145,7 @@ Blogs and online articles:
 -	**GeeksforGeeks:** Offers numerous articles and a complete roadmap for learning system design, from basics to advanced concepts. 
 -	**DEV Community:** You can find many articles comparing system design resources and providing detailed guides.
 
-### 3. Debugging and performance optimization: Examine candidates’ skills in identifying and resolving issues, as well as optimizing code for better performance.
+### 3. ***Debugging and performance optimization:*** Examine candidates’ skills in identifying and resolving issues, as well as optimizing code for better performance.
 
 **Debugging:**
 - **Understand Your Tools:** Every language/IDE has a debugger (e.g., Chrome DevTools, GDB, Visual Studio Debugger). Learn to set breakpoints, step through code, inspect variables, and view call stacks.
@@ -168,7 +168,7 @@ Blogs and online articles:
 
 Key takeaway: Debugging is about finding why it's broken; optimization is about making it faster/more efficient. Both require understanding your tools, analytical thinking, and a systematic approach.
 
-### 4. Code readability and maintainability: Analyze candidates’ approach to writing clean, readable, and maintainable code.
+### 4. ***Code readability and maintainability:*** Analyze candidates’ approach to writing clean, readable, and maintainable code.
 
 - **Consistent Formatting:**
     -	**Follow Style Guides:** Adhere to established style guides for your language (e.g., PEP 8 for Python, Google Java Style Guide).
