@@ -90,7 +90,7 @@ Looking to delve deeper?
 
 Online courses and specializations:
 - ***Coursera:***
-    -**	"Algorithms Specialization" by Stanford University:** A highly regarded series of courses that delve deep into algorithms.
+    - **"Algorithms Specialization" by Stanford University:** A highly regarded series of courses that delve deep into algorithms.
     -	**"Data Structures and Algorithms Specialization" by University of California San Diego:** It covers essential algorithmic techniques and data structures.
     -	**"Algorithms, Part I" and "Algorithms, Part II" by Princeton University:** These courses on Coursera (also available via edX) use Java for implementations and are very thorough.
      
