@@ -78,7 +78,7 @@ In short, technical problem-solving interview questions try to understand:
 
 ### 1. ***Algorithm and data structure knowledge (DSA):*** Evaluate candidate’s understanding of fundamental algorithms and data structures, and their ability to apply them to solve problems.
 
-   - ***Practice on LeetCode and HackerRank:*** Focusing on data structures like arrays, linked lists, stacks, queues, trees, and graphs, as well as common algorithms such as sorting and searching, will lay a solid foundation for tackling more complex problems. You have other platforms such as GeeksforGeeks, CodeChef, HackerEarth at AtCoder.
+   - ***Practice on [LeetCode](https://leetcode.com/) and [HackerRank](https://www.hackerrank.com/interview/interview-preparation-kit):*** Focusing on data structures like arrays, linked lists, stacks, queues, trees, and graphs, as well as common algorithms such as sorting and searching, will lay a solid foundation for tackling more complex problems. You have other platforms such as GeeksforGeeks, CodeChef, HackerEarth at AtCoder.
 
    - ***Understand time and space complexity:*** Learn to analyze the efficiency of your code by understanding time and space complexity, which is crucial for optimizing your solutions and making informed decisions during interviews.
    
@@ -90,24 +90,24 @@ Looking to delve deeper?
 
 Online courses and specializations:
 - ***Coursera:***
-    - **"Algorithms Specialization" by Stanford University:** A highly regarded series of courses that delve deep into algorithms.
-    -	**"Data Structures and Algorithms Specialization" by University of California San Diego:** It covers essential algorithmic techniques and data structures.
-    -	**"Algorithms, Part I" and "Algorithms, Part II" by Princeton University:** These courses on Coursera (also available via edX) use Java for implementations and are very thorough.
+    - **["Algorithms Specialization"](https://www.coursera.org/specializations/algorithms) by Stanford University:** A highly regarded series of courses that delve deep into algorithms.
+    -	**["Data Structures and Algorithms Specialization"](https://www.coursera.org/specializations/data-structures-algorithms) by University of California San Diego:** It covers essential algorithmic techniques and data structures.
+    -	**["Algorithms, Part I"](https://www.coursera.org/learn/algorithms-part1) and "Algorithms, Part II"](https://www.coursera.org/learn/algorithms-part2) by Princeton University:** These courses on Coursera (also available via edX) use Java for implementations and are very thorough.
      
 - ***edX:***
-    -	**"Algorithmic Design and Techniques" (IIT Bombay):** A self-paced course that explores a wide range of algorithmic concepts.
-    -	**"Data Structures and Algorithms" (GTx and UCSanDiegoX):** Various programs and micro-credentials from top universities.
-    -	 freeCodeCamp: Offers comprehensive and free courses on data structures and algorithms, often with practical projects and a focus on JavaScript or Python. Their YouTube channel is also a great resource. 
-    -	**Udemy:** Many courses on DSA for various programming languages (Java, Python, C++, etc.). Look for highly-rated instructors. 
-    -	**Khan Academy:** Offers a beginner-friendly "Algorithms" course developed in partnership with Dartmouth College professors. 
-    -	**Log2Base2:** Unique for its visual learning approach, using animations to explain complex DSA topics.
+    -	**["Algorithmic Design and Techniques"](https://www.edx.org/learn/algorithms/the-university-of-california-san-diego-algorithmic-design-and-techniques) (IIT Bombay):** A self-paced course that explores a wide range of algorithmic concepts.
+    -	**["Data Structures and Algorithms"](https://www.edx.org/certificates/professional-certificate/gtx-data-structures-and-algorithms) (GTx and UCSanDiegoX):** Various programs and micro-credentials from top universities.
+    - **[Udemy](https://www.udemy.com/?srsltid=AfmBOorPt4_ty7YJaK-aMJyWK2A9qoTSOE90EfaEkE2Zufhlcva8QeAh):**  Many courses on DSA for various programming languages (Java, Python, C++, etc.).
+    - **[freeCodeCamp](https://www.freecodecamp.org/): Offers comprehensive and free courses on data structures and algorithms, often with practical projects and a focus on JavaScript or Python. Their YouTube channel is also a great resource.
+    - **[Khan Academy](https://www.khanacademy.org/):** Offers a beginner-friendly "Algorithms" course developed in partnership with Dartmouth College professors.
+    - **[Log2Base2](https://log2base2.com/):** Unique for its visual learning approach, using animations to explain complex DSA topics.
 
 Books:
--	**"Introduction to Algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (CLRS):** Often called the "Bible" of algorithms. It's comprehensive and covers theoretical aspects in depth. While dense, it's a “must-have” reference for serious learners. 
--	**"Grokking Algorithms" by Aditya Bhargava:** Excellent for beginners. It uses a very visual and intuitive approach to explain common algorithms with relatable examples. 
--	**"Data Structures and Algorithms Made Easy" by Narasimha Karumanchi:** A popular book for interview preparation, covering a wide array of problems and solutions.
--	**"The Algorithm Design Manual" by Steven S. Skiena:** Combines theoretical explanations with a practical "War Stories" section and a catalog of algorithmic problems. 
--	**"Cracking the Coding Interview" by Gayle Laakmann McDowell:** While broader than just DSA, it has extensive sections on algorithms and data structures, specifically tailored for coding interviews at top tech companies.
+-	**["Introduction to Algorithms"](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (CLRS):** Often called the "Bible" of algorithms. It's comprehensive and covers theoretical aspects in depth. While dense, it's a “must-have” reference for serious learners. 
+-	**["Grokking Algorithms"](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava:** Excellent for beginners. It uses a very visual and intuitive approach to explain common algorithms with relatable examples. 
+-	**["Data Structures and Algorithms Made Easy"](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy/dp/819324527X) by Narasimha Karumanchi:** A popular book for interview preparation, covering a wide array of problems and solutions.
+-	**["The Algorithm Design Manual"](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) by Steven S. Skiena:** Combines theoretical explanations with a practical "War Stories" section and a catalog of algorithmic problems. 
+-	**["Cracking the Coding Interview"](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) by Gayle Laakmann McDowell:** While broader than just DSA, it has extensive sections on algorithms and data structures, specifically tailored for coding interviews at top tech companies.
 
 **Tips for Effective Learning:**
 -	**Choose a Programming Language:** Pick one language (Python, Java, C++, JavaScript) and stick with it for your DSA journey. The concepts are transferable.
@@ -122,28 +122,28 @@ Books:
 Looking to delve deeper?
 
 Online courses and specializations:
--	**Educative:** "Grokking Modern System Design Interview for Engineers & Managers" is a highly recommended and comprehensive course, covering foundational to advanced topics and API design. They also offer crash courses. 
--	**DesignGurus.io:** "Grokking the System Design Interview" is a popular course known for its practical approach and detailed explanations of real-world design problems. 
--	**ByteByteGo:** Created by Alex Xu (author of "System Design Interview"), this platform offers structured learning paths and regular newsletters with system design puzzles and tips.
--	**Udemy:** Look for courses like "Mastering the System Design Interview" by Frank Kane (ex-Amazon hiring manager) or "Pragmatic System Design" by Sandeep Kaul (Facebook engineer). 
--	**Coursera:** Offers specializations like "Software Design and Architecture" from the University of Alberta, which covers object-oriented design, design patterns, and software architecture. 
--	**Exponent:** Provides structured learning paths and is particularly useful for FAANG interview preparation. 
--	**Arpit Bhayani's "System Design for Beginners":** A self-paced course designed for early engineers, covering most topics from scratch.
+-	**[Educative](https://www.educative.io/):** "Grokking Modern System Design Interview for Engineers & Managers" is a highly recommended and comprehensive course, covering foundational to advanced topics and API design. They also offer crash courses. 
+-	**[DesignGurus.io](https://www.designgurus.io/):** "Grokking the System Design Interview" is a popular course known for its practical approach and detailed explanations of real-world design problems. 
+-	**[ByteByteGo](https://bytebytego.com/):** Created by Alex Xu (author of "System Design Interview"), this platform offers structured learning paths and regular newsletters with system design puzzles and tips.
+-	**[Udemy](https://www.udemy.com/?srsltid=AfmBOorPt4_ty7YJaK-aMJyWK2A9qoTSOE90EfaEkE2Zufhlcva8QeAh):** Look for courses like "Mastering the System Design Interview" by Frank Kane (ex-Amazon hiring manager) or "Pragmatic System Design" by Sandeep Kaul (Facebook engineer).
+-	**[Coursera](https://www.coursera.org/):** Offers specializations like "Software Design and Architecture" from the University of Alberta, which covers object-oriented design, design patterns, and software architecture.
+-	**[Exponent](https://www.tryexponent.com/):** Provides structured learning paths and is particularly useful for FAANG interview preparation. 
+-	**[Arpit Bhayani's "System Design for Beginners"](https://arpitbhayani.me/system-design-for-beginners/):** A self-paced course designed for early engineers, covering most topics from scratch.
 
 Books:
--	**"Designing Data-Intensive Applications" by Martin Kleppmann:** This is often cited as a “must-read” for anyone serious about system design. It delves into the principles behind reliable, scalable, and maintainable systems, covering databases, distributed systems, and design trade-offs. 
--	**"System Design Interview – An Insider's Guide" (Vol. 1 & 2) by Alex Xu:** These books (popularized by ByteByteGo) offer a practical approach to system design, walking through real interview scenarios and case studies. 
--	**"The Art of Scalability" by Martin Abbott and Michael Fisher:** Focuses on building scalable architectures and organizations, using real case studies from companies like eBay and Apple. 
--	**"Site Reliability Engineering (SRE)" by Google: Written by Google engineers, this book explores designing and operating large-scale systems with high reliability, covering availability, monitoring, and disaster recovery. 
--	**"Clean Architecture" by Robert C. Martin (Uncle Bob):** Part of his "Clean Code" series, this book offers insights into architectural principles. 
--	**"Fundamentals of Software Architecture" by Mark Richards and Neal Ford:** A comprehensive guide to software architecture, covering characteristics, patterns, and evolutionary architecture.
+-	**["Designing Data-Intensive Applications"](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321( by Martin Kleppmann:** This is often cited as a “must-read” for anyone serious about system design. It delves into the principles behind reliable, scalable, and maintainable systems, covering databases, distributed systems, and design trade-offs. 
+-	**"System Design Interview – An Insider's Guide" ([Vol. 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) & [Vol. 2](https://www.amazon.com/dp/1736049119/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk) by Alex Xu:** These books (popularized by ByteByteGo) offer a practical approach to system design, walking through real interview scenarios and case studies. 
+-	**["The Art of Scalability"](https://www.amazon.com/Art-Scalability-Architecture-Organizations-Enterprise/dp/0134032802) by Martin Abbott and Michael Fisher:** Focuses on building scalable architectures and organizations, using real case studies from companies like eBay and Apple. 
+-	**["Site Reliability Engineering (SRE)"](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X) by Google: Written by Google engineers, this book explores designing and operating large-scale systems with high reliability, covering availability, monitoring, and disaster recovery. 
+-	**["Clean Architecture" by Robert C. Martin (Uncle Bob)](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164):** Part of his "Clean Code" series, this book offers insights into architectural principles. 
+-	**["Fundamentals of Software Architecture"](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451) by Mark Richards and Neal Ford:** A comprehensive guide to software architecture, covering characteristics, patterns, and evolutionary architecture.
 
 Blogs and online articles:
--	**High Scalability:** This blog curates architecture lessons from top tech companies, often dissecting how major systems are designed. 
--	**DesignGurus.io Blog:** A self-study resource with a curated list of important system design interview questions and guides. 
--	**ByteByteGo Newsletter:** A weekly newsletter with system design puzzles and discussions. 
--	**GeeksforGeeks:** Offers numerous articles and a complete roadmap for learning system design, from basics to advanced concepts. 
--	**DEV Community:** You can find many articles comparing system design resources and providing detailed guides.
+-	**[High Scalability](https://highscalability.com/):** This blog curates architecture lessons from top tech companies, often dissecting how major systems are designed. 
+-	**[DesignGurus.io Blog](https://www.designgurus.io/blog):** A self-study resource with a curated list of important system design interview questions and guides. 
+-	**[ByteByteGo Newsletter](https://blog.bytebytego.com/):** A weekly newsletter with system design puzzles and discussions. 
+-	**[GeeksforGeeks](https://www.geeksforgeeks.org/):** Offers numerous articles and a complete roadmap for learning system design, from basics to advanced concepts. 
+-	**[DEV Community](https://dev.to/):** You can find many articles comparing system design resources and providing detailed guides.
 
 ### 3. ***Debugging and performance optimization:*** Examine candidates’ skills in identifying and resolving issues, as well as optimizing code for better performance.
 
@@ -206,7 +206,7 @@ Key takeaway: Debugging is about finding why it's broken; optimization is about 
 
 Be aware that some companies conduct live coding sessions during the technical interview. Key concepts you should be familiar with include:
 
-- **Live coding exercises:** Observe candidates’’ coding skills in real-time, including their problem-solving approach and coding style.
+-  **Live coding exercises:** Observe candidates’’ coding skills in real-time, including their problem-solving approach and coding style.
 -	**Pair programming:** Evaluate candidates’ ability to work collaboratively, communicate effectively, and solve problems as a team.
 -	**Code reviews:** Assess candidates' ability to write well-structured, efficient, and secure code through a peer review process.
 -	**Technical challenges:** Test candidates’ ability to apply their knowledge to solve complex technical challenges.
