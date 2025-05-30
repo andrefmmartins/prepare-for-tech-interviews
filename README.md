@@ -92,13 +92,13 @@ Online courses and specializations:
 - ***Coursera:***
     - **["Algorithms Specialization"](https://www.coursera.org/specializations/algorithms) by Stanford University:** A highly regarded series of courses that delve deep into algorithms.
     -	**["Data Structures and Algorithms Specialization"](https://www.coursera.org/specializations/data-structures-algorithms) by University of California San Diego:** It covers essential algorithmic techniques and data structures.
-    -	**["Algorithms, Part I"](https://www.coursera.org/learn/algorithms-part1) and "Algorithms, Part II"](https://www.coursera.org/learn/algorithms-part2) by Princeton University:** These courses on Coursera (also available via edX) use Java for implementations and are very thorough.
+    -	**["Algorithms, Part I"](https://www.coursera.org/learn/algorithms-part1) and ["Algorithms, Part II"](https://www.coursera.org/learn/algorithms-part2) by Princeton University:** These courses on Coursera (also available via edX) use Java for implementations and are very thorough.
      
 - ***edX:***
     -	**["Algorithmic Design and Techniques"](https://www.edx.org/learn/algorithms/the-university-of-california-san-diego-algorithmic-design-and-techniques) (IIT Bombay):** A self-paced course that explores a wide range of algorithmic concepts.
     -	**["Data Structures and Algorithms"](https://www.edx.org/certificates/professional-certificate/gtx-data-structures-and-algorithms) (GTx and UCSanDiegoX):** Various programs and micro-credentials from top universities.
     - **[Udemy](https://www.udemy.com/?srsltid=AfmBOorPt4_ty7YJaK-aMJyWK2A9qoTSOE90EfaEkE2Zufhlcva8QeAh):**  Many courses on DSA for various programming languages (Java, Python, C++, etc.).
-    - **[freeCodeCamp](https://www.freecodecamp.org/): Offers comprehensive and free courses on data structures and algorithms, often with practical projects and a focus on JavaScript or Python. Their YouTube channel is also a great resource.
+    - **[freeCodeCamp](https://www.freecodecamp.org/):** Offers comprehensive and free courses on data structures and algorithms, often with practical projects and a focus on JavaScript or Python. Their YouTube channel is also a great resource.
     - **[Khan Academy](https://www.khanacademy.org/):** Offers a beginner-friendly "Algorithms" course developed in partnership with Dartmouth College professors.
     - **[Log2Base2](https://log2base2.com/):** Unique for its visual learning approach, using animations to explain complex DSA topics.
 
