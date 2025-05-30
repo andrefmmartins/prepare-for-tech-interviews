@@ -1,4 +1,4 @@
-_Created on: 23 May 2025 ---- Last Update on: 23 May 2025_
+_Created on: 23 May 2025 ---- Last Update on: 30 May 2025_
 
 Technical and HR interviews – if you want to be successful in a recruitment process, you’ll need to go through both. Let's break down the typical stages of a tech hiring process.
 
