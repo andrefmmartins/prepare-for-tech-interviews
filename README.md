@@ -97,6 +97,8 @@ Online courses and specializations:
 - ***edX:***
     -	**["Algorithmic Design and Techniques"](https://www.edx.org/learn/algorithms/the-university-of-california-san-diego-algorithmic-design-and-techniques) (IIT Bombay):** A self-paced course that explores a wide range of algorithmic concepts.
     -	**["Data Structures and Algorithms"](https://www.edx.org/certificates/professional-certificate/gtx-data-structures-and-algorithms) (GTx and UCSanDiegoX):** Various programs and micro-credentials from top universities.
+ 
+- ***Others:***  
     - **[Udemy](https://www.udemy.com/?srsltid=AfmBOorPt4_ty7YJaK-aMJyWK2A9qoTSOE90EfaEkE2Zufhlcva8QeAh):**  Many courses on DSA for various programming languages (Java, Python, C++, etc.).
     - **[freeCodeCamp](https://www.freecodecamp.org/):** Offers comprehensive and free courses on data structures and algorithms, often with practical projects and a focus on JavaScript or Python. Their YouTube channel is also a great resource.
     - **[Khan Academy](https://www.khanacademy.org/):** Offers a beginner-friendly "Algorithms" course developed in partnership with Dartmouth College professors.
@@ -131,7 +133,7 @@ Online courses and specializations:
 -	**[Arpit Bhayani's "System Design for Beginners"](https://arpitbhayani.me/system-design-for-beginners/):** A self-paced course designed for early engineers, covering most topics from scratch.
 
 Books:
--	**["Designing Data-Intensive Applications"](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321( by Martin Kleppmann:** This is often cited as a “must-read” for anyone serious about system design. It delves into the principles behind reliable, scalable, and maintainable systems, covering databases, distributed systems, and design trade-offs. 
+-	**["Designing Data-Intensive Applications"](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by Martin Kleppmann:** This is often cited as a “must-read” for anyone serious about system design. It delves into the principles behind reliable, scalable, and maintainable systems, covering databases, distributed systems, and design trade-offs. 
 -	**"System Design Interview – An Insider's Guide" ([Vol. 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) & [Vol. 2](https://www.amazon.com/dp/1736049119/ref=sspa_dk_hqp_detail_aax_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9ocXBfc2hhcmVk) by Alex Xu:** These books (popularized by ByteByteGo) offer a practical approach to system design, walking through real interview scenarios and case studies. 
 -	**["The Art of Scalability"](https://www.amazon.com/Art-Scalability-Architecture-Organizations-Enterprise/dp/0134032802) by Martin Abbott and Michael Fisher:** Focuses on building scalable architectures and organizations, using real case studies from companies like eBay and Apple. 
 -	**["Site Reliability Engineering (SRE)"](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X) by Google: Written by Google engineers, this book explores designing and operating large-scale systems with high reliability, covering availability, monitoring, and disaster recovery. 
